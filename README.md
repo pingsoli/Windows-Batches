@@ -1,2 +1,2 @@
 # Windows-Batches
-Window bat files for kill annoying problems.
+Windows bat files for kill annoying problems.
