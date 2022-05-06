@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; MUID=1cf42a07f5724956937c1fcba6ef197a
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
+; "CortanaConsent"=
+; "BingSearchEnabled"=dword:00000000
